@@ -1,0 +1,8 @@
+train: /data/muweiyi/yolov5/HATTT/
+val: /data/muweiyi/yolov5/HATTT/
+
+# number of classes
+nc: 5
+
+# class names
+names: ["yellow","blue","white","red","none"]
